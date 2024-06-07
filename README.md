@@ -6,5 +6,6 @@ Once you run the program you are prompted with two questions regarding your init
 
 ## Demo
 Here is a video that demonstrates the program:
+
 https://github.com/VedicAM/Orbit/assets/99448454/ff15d98f-a97f-4486-a40d-4b62d6058345
 
