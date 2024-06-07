@@ -1,5 +1,5 @@
 # Orbit
-This is a celestial body orbit simulator which at the moment can handle only two celestial bodies. The green celestial body will always have a bigger mass than the blue celestial body. Do keep in mind that these celestial bodies are not draw to scale!
+This is a celestial body orbit simulator that at the moment can handle only two celestial bodies. The green celestial body will always have a bigger mass than the blue celestial body. Do keep in mind that these celestial bodies are not drawn to scale!
 
 ## Running
 This program is made in Python so please make sure you have the latest version of Python downloaded first. This program also uses two main dependencies, NumPy(for the calculations) and Pygame(for the rendering). To install NumPy and Pygame please run this command:
